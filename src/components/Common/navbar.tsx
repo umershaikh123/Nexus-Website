@@ -188,7 +188,7 @@ function ResponsiveAppBar() {
                 </MenuItem>
               </Link>
 
-              <a href="https://docs.nexusnetwork.live/" target="_blank">
+              <a href="https://docs.nexusnetwork.co.in/" target="_blank">
                 <MenuItem
                   sx={{
                     width: { sm: "80vw", xs: "90vw" },
@@ -283,7 +283,7 @@ function ResponsiveAppBar() {
             </button>
 
             <button className="my-2 mx-5 capitalize  font-normal  block   hover:text-[var(--nav-link-hover)]  duration-300  transition-all  ease-in-out">
-              <a href="https://docs.nexusnetwork.live/" target="_blank">
+              <a href="https://docs.nexusnetwork.co.in/" target="_blank">
                 Docs
               </a>
             </button>
