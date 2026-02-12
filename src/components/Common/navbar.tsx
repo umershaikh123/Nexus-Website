@@ -73,7 +73,7 @@ function ResponsiveAppBar() {
   const ref = useRef<HTMLDivElement>(null)
 
   return (
-    <div className="flex justify-center h-[5rem] ">
+    <div className="flex justify-center   ">
       <nav
         className=" backdrop-blur-lg z-30  sm:px-8 px-0 w-full   rounded-2xl fixed mx-auto  md:max-w-[85vw]     "
         aria-labelledby="menu-button"
